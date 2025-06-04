@@ -1,0 +1,92 @@
+body{
+	background-color: black;
+}
+
+.tv-image{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+}
+
+.tv-subheading{
+	color: red;
+	text-transform: uppercase;
+}
+
+.tv-p{
+	color: white;
+	font-family: verdana;
+	text-align: justify;
+	margin: 15px;
+}
+
+.tv-p1{
+	color: white;
+	font-family: verdana;
+	opacity: 75%;
+	font-style: italic;
+}
+
+.tv-p2{
+	color: white;
+	font-family: verdana;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.tv-p3{
+	color: white;
+	font-family: verdana;
+	text-align: justify;
+}
+
+.tv-vid{
+	width: 400px;
+	height: 350px;
+}
+
+.sub3{
+	color: blanchedalmond;
+}
+
+.character-div{
+  width:200px;
+  text-align:center;
+  display:block;
+  background-color: transparent;
+  border: 1px solid transparent;
+  margin-right: 2px;
+  margin-bottom: 1px;
+  float:left;
+}
+
+.tv-img{
+	width: 150px;
+	height: 150px;
+}
+
+.container1{
+ display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.special-text{
+	font-style: italic;
+	color: yellowgreen;
+}
+
+.tv-audio{
+  background-color: transparent;
+  border: 2px solid yellowgreen;
+  border-radius: 50px;
+  padding: 5px;
+
+
+.tv-p3{
+	color: white;
+	font-family: verdana;
+	text-align: justify;
+	margin: 15px;
+}

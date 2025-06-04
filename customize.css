@@ -1,0 +1,163 @@
+/* ============ CHANGE LOADING ANIMATION 
+1. Download gif here : https://icons8.com/preloaders/
+2. Put the image in assets/images/
+3. Change the name of the image from Preload_2.gif to the name of the gif you want
+============ */
+.se-pre-con {
+    background: url("../images/dancingkitty.gif") center no-repeat #fff;
+}
+
+
+
+/* ============ CHANGE BACKGROUND COLOR ============ */
+body {
+    background-color: black;
+}
+
+/* ============ CHANGE FONT ============ */
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Roboto', sans-serif;
+    font-family: "Eczar", serif;
+    font-weight: 300;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+    font-family: "Eczar", serif;
+    font-weight: 300;
+}
+
+
+
+
+/* ============ CHANGE HEADER BACKGROUND-COLOR ============ */
+
+/* 
+MORE GRADIENT COLORS HERE : https://cssgradient.io/
+*/
+
+.hero-image{
+background: #F7374F;
+background: radial-gradient(circle, rgba(247, 55, 79, 1) 0%, rgba(136, 48, 78, 1) 35%, 
+    rgba(82, 37, 70, 1) 69%, rgba(44, 44, 44, 1) 82%);
+}
+
+
+.hero-image-artiste {
+background: #2F4F4F;
+background: radial-gradient(circle, rgba(47, 79, 79, 1) 0%, rgba(0, 0, 0, 1) 75%);
+}
+
+.hero-image-movie {
+background: #f70202;
+background: radial-gradient(circle, rgba(247, 2, 2, 1) 0%, rgba(0, 0, 0, 1) 75%);
+}
+
+/* ============ CHANGE HEADER TO IMAGE INSTEAD OF COLOR ============ */
+
+/* Remove this entire line to use an image instead of color
+
+.hero-image {
+    background-image: url("../images/hero.jpg");
+} 
+
+Remove this entire line to use an image instead of color   */
+
+
+/* ============ CHANGE HEADER TITLE COLOR ============ */
+
+.hero-text h1 {
+    color: black;
+    font-size: 3rem;
+}
+
+/* ============ CHANGE HEADER BUTTON ============ */
+
+.hero-text a {
+    color: black;
+    background-color: blanchedalmond;
+}
+
+.hero-text a:hover {
+    background-color: black;
+    color: blanchedalmond;
+}
+
+
+/* ============ CHANGE CONTENT BACKGROUND-COLOR ============ */
+.content {
+    background-color: #88304E;
+}
+
+.content-cts {
+    background-color: whitesmoke;
+}
+
+.content-movie {
+    background-color: black;
+}
+
+.content-artiste {
+    background-color: darkslategray;
+}
+
+/* ============ CHANGE SIDEBAR COLOR ============ */
+.sidebar {
+    background-color: #88304E;
+}
+
+.sidebar-artiste {
+    background-color: darkslategray;
+}
+
+.sidebar-movie {
+    background-color: #1C1C1C;
+}
+
+/* ============ CHANGE SIDEBAR SECTION ============ */
+.sidebar-section {
+    background-color: #522546;
+}
+
+.sidebar-section-artiste {
+    background-color: #1C1C1C;
+}
+.sidebar-section-movie {
+    background-color: black;
+}
+
+/* ============ CHANGE FOOTER ============ */
+.footer1 {
+    background-color: #88304E;
+}
+
+.footer-p{
+    color: blanchedalmond;
+    font-family: verdana;
+}
+
+.footer-artiste {
+    background-color: darkslategray;
+}
+
+.footer-p-artiste{
+    color: blanchedalmond;
+    font-family: verdana;
+}
+
+.footer-movie {
+    background-color: #1C1C1C;
+}
+
+.movie-p{
+    color: blanchedalmond;
+    font-family: verdana;
+}

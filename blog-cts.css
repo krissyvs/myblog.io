@@ -1,0 +1,24 @@
+.cts-title{
+	text-transform: uppercase;
+}
+
+.cts-image{
+	width: 100%;
+}
+
+.cts-subheading{
+	text-transform: uppercase;
+	color: red;
+	border-bottom: solid 1px lightgray;
+	margin-top: 50px;
+}
+
+.cts-text-highlight{
+	border-left: 5px solid grey;
+	padding: 15px ;
+	background-color: lightgray;
+}
+
+.cts-list{
+	margin: 15px;
+}

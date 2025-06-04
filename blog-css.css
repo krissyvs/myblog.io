@@ -1,0 +1,119 @@
+p{
+	color: black;
+}
+
+.text-orange{
+	color: orange;
+}
+
+.text-bigger{
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.custom-text{
+	font-size: 28px;
+	font-weight: bold;
+	font-style: italic;
+	color: hotpink;
+}
+
+.custom-link{
+	text-decoration: none;
+	color: purple;
+}
+
+.text-uppercase{
+	text-transform: uppercase;
+}
+
+.custom-background{
+	background-color: lightcoral;
+}
+
+.custom-link1{
+	background-color: black;
+	color: hotpink;
+}
+
+.custom-link2{
+	background-color: whitesmoke;
+	color: black;
+}
+
+body {
+	background-color: black;
+}
+
+.custom-center-paragraph{
+	text-align: center;
+}
+
+.a{
+	list-style-type: circle;
+	font-weight: bold;
+	font-size: 20px;
+	margin: 15px;
+}
+
+.b{
+	list-style-type: square;
+	color: #2C2C2C;
+	font-style: italic;
+	margin: 15px;
+}
+
+.c{
+	list-style-type: lower-alpha;
+	color: royalblue;
+	margin: 15px;
+}
+
+.custom-border{
+	border: 1px solid red;
+}
+
+.tb{
+	border-top: 2px dotted blue;
+}
+
+.rb{
+	border-right: 3px solid hotpink;
+}
+
+.lb{
+	border-left: 3px solid hotpink;
+}
+
+.bb{
+	border-bottom: 2px dotted blue;
+}
+
+.custom-margin1{
+	margin: 6px;
+}
+
+.diff-margins{
+	margin: 10px 5px;
+}
+
+.diff-m2{
+	margin: 3px 2px 3px 2px;
+}
+
+.custom-margin2{
+	margin: 100px;
+}
+
+.left-margin{
+	margin: 85px;
+}
+
+.custom-padding{
+	padding: 100px;
+}
+
+.custom-image{
+	width: 300px;
+	height: 300px;
+}
